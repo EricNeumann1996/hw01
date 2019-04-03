@@ -1,5 +1,8 @@
-# hw01
-Repository for homework 01
+install.packages("usethis")
+Yes
+library(usethis)
+use_git_config(user.name = "EricNeumann1996", 
+               user.email = "ericneumann1996@gmail.com")
 
 #Bio Homework 1
 
@@ -27,7 +30,7 @@ Here is some stuff I care about.
 
 ### This is me.
 
-![Reading AND traveling at the same time.](photo.jpeg)
+![Reading AND traveling at the same time.](DSC_0357 copy.jpg)
 
 ### And here you find some fotos I took.
 
