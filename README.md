@@ -1,5 +1,5 @@
 # hw01
-Repository for homework 01 2019
+Repository for homework 01, 2019 Chicago
 
 #Bio Homework 1
 
